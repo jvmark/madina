@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.duitang:web-common:160906.1200">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/web-common/160906.1200/web-common-160906.1200.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/web-common/160906.1200/web-common-160906.1200-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/web-common/160906.1200/web-common-160906.1200-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/madina.iml" filepath="$PROJECT_DIR$/madina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madina-framework/madina-framework.iml" filepath="$PROJECT_DIR$/madina-framework/madina-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madina-task/madina-task.iml" filepath="$PROJECT_DIR$/madina-task/madina-task.iml" />
+    </modules>
+  </component>
+</project>

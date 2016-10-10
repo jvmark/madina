@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/Application.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/context/config/AppConfig.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/context/config/ContextHolder.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/context/config/PropertyConfig.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/context/config/UtilsConfig.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/context/config/ViewConfiguration.java">
+</file>
+<file name="/Users/mark/github/madina/madina-framework/src/main/java/com/duitang/madina/framework/controller/HelloController.java">
+</file>
+</checkstyle>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="madina-task:war">
+    <output-path>$PROJECT_DIR$/madina-task/target</output-path>
+    <root id="archive" name="saturn.war">
+      <element id="artifact" artifact-name="madina-task:war exploded" />
+    </root>
+  </artifact>
+</component>

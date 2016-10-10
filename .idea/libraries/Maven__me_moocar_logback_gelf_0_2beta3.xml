@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.moocar:logback-gelf:0.2beta3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/moocar/logback-gelf/0.2beta3/logback-gelf-0.2beta3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/moocar/logback-gelf/0.2beta3/logback-gelf-0.2beta3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/moocar/logback-gelf/0.2beta3/logback-gelf-0.2beta3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

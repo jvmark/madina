@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.duitang:boot-mysql:0.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/boot-mysql/0.0.4-SNAPSHOT/boot-mysql-0.0.4-20160405.073346-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/boot-mysql/0.0.4-SNAPSHOT/boot-mysql-0.0.4-20160405.073346-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/duitang/boot-mysql/0.0.4-SNAPSHOT/boot-mysql-0.0.4-20160405.073346-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
